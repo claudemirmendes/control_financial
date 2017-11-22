@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyText
+  account_payable__id: 1
+  payed: false
+  user_id: 1
+  parcel: false
+
+two:
+  description: MyText
+  account_payable__id: 1
+  payed: false
+  user_id: 1
+  parcel: false

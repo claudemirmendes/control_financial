@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyText
+  account_receivable_id: 1
+  received: false
+  user_id: 1
+
+two:
+  description: MyText
+  account_receivable_id: 1
+  received: false
+  user_id: 1
