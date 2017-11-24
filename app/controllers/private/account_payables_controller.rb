@@ -1,4 +1,4 @@
-class Private::AccountPayablesController < Private::BaseController
+class AccountPayablesController < Private::BaseController
   before_action :set_account_payable, only: [:show, :update, :destroy]
 
   # GET /account_payables
