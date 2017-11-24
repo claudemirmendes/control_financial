@@ -1,4 +1,4 @@
-class Private::BaseController < ApplicationController
+class Private::AccountReceivablesController < ApplicationController
   before_action :set_account_receivable, only: [:show, :update, :destroy]
 
   # GET /account_receivables
