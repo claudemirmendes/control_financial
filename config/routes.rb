@@ -9,7 +9,10 @@ Rails.application.routes.draw do
   namespace :public do
     resources :users do
       collection do
-        put :login, on: collection
+        put :login
+      end
+      collection do
+        put :register
       end
     end
  end
