@@ -141,7 +141,7 @@ DEPENDENCIES
   mysql2 (= 0.3.18)
   puma (~> 3.0)
   rails (~> 5.0.2)
-  rubocop (~> 0.39.0)
+  rubocop
   spring (~> 2.0, >= 2.0.2)
   spring-watcher-listen (~> 2.0.0)
   tzinfo-data
