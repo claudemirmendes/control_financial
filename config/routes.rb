@@ -12,7 +12,7 @@ Rails.application.routes.draw do
         put :login
       end
       collection do
-        put :register
+        put :register_user
       end
     end
  end
